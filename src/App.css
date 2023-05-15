@@ -1,0 +1,18 @@
+.categoricdisplay {
+  display: flex;
+  flex-direction: row;
+}
+
+.category {
+  padding-right: 3%;
+  padding-top: 3%;
+}
+
+.carddisplay {
+  display: flex;
+  flex-direction: row;
+}
+
+.carddisplay card {
+  margin-right: 2%;
+}
